@@ -1,0 +1,77 @@
+
+.nav-list a {
+    color: white !important;
+}
+
+.aux-nav a {
+    color: white !important;
+}
+
+.module a, footer a {
+    color: #ffeb82 !important;
+}
+
+.module {
+    border: 1px solid #444444;
+}
+
+$link-color: $grey-lt-000;
+
+a {
+    color: $yellow-000 !important;
+
+}
+.pronouns {
+    background-color: #777777 !important;
+}
+
+ol a {
+    color: #ffeb82 !important;
+}
+
+.main-content a {
+    color: #ffeb82 !important;
+}
+
+.btn {
+    color: #333333 !important;
+}
+
+@import "./color_schemes/dark";
+
+.dm-dark-btn::selection {
+    background-color: #ffeb82 !important;
+}
+
+::selection {
+    background-color: #ffeb82 !important;
+}
+
+.dm-dark-btn {
+    color: #ffeb82 !important;
+}
+
+.dm-dark-btn:hover {
+    color: #e7af06 !important;
+}
+
+.dm-text a {
+    color: #ffeb82 !important;
+}
+
+.yellow-link {
+    color: #ffeb82 !important;
+}
+
+code {
+    background-color: #BBBBBB !important;
+    color: #555EB4 !important;
+}
+
+input {
+    color: white !important;
+}
+
+.announcement-meta {
+    color: #959396;
+}
