@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Office Hours
-nav_exclude: false
+nav_exclude: true
 description: >-
     Winter 2024 Lecture and Office Hours Schedule
 ---

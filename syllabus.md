@@ -40,24 +40,15 @@ A major component of this course is hands-on Python programming to implement dat
 
 - The class meets 3 times a week for 50-minute lectures in person.
     <!-- - All lectures will be automatically podcast here afterward. -->
-    - Attending the lectures is not mandatory. But there are Peer Instruction activities involving discussing questions with peers in class only (details below). There will be other interactive activities as well.
+    - Attending the lectures is not mandatory but highly encouraged.
+    - There will be ready summary 
     - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
 
 - 3 Programming Assignments (PAs).
     - See the PAs page for the PA schedule and details.
     - There are no late days for the PAs. Plan your work accordingly.
 
-<!--
-- 12 Peer Instruction activities via iClickers.
-    - They will be held live in class using iClicker, spread randomly across the quarter.
-    - Each activity will have 2 multiple-choice questions (MCQ). Quantitative problems may exist but only the final answer will need to be selected. No partial credits.
-    - For each question, you must first answer individually. Then you can discuss the question with you neighbor(s). After that, you can answer the question again.
-    - These activities are also open books/notes/electronics/Web.
-    - Grading is based on earnest participation in the whole activity.
-    - If you miss an activity, you will get no credit for it, unless you notify the instructor in advance with a university approved reason.
-    - You can miss up to 2 activities out of the 12 without losing credit.
-    - Make sure to bring your clicker to every lecture. If you happen to forget it one day, submit your written answers on a sheet.
-    - You are allowed to possess only your own clicker. Using someone else's clicker is an academic integrity violation that will entail serious consequences as listed below.-->
+- S
 
 - Exams.
   - **There is NO midterm**. Cheers! 
