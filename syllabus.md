@@ -23,66 +23,93 @@ The course is organized into four parts, covering the following topics.
 1. **Foundations of Data Systems**: Data models, big data storage and retrieval, and how to encode information when you store data. 
 2. **Scaling Distributed Systems**: Cluster, cloud, edge, network, replication, partition, consistency, ACID.
 3. **Data Processing and Programming model**: Batch processing, stream processing, MapReduce, Hadoop, Spark, Ray.
-4. **Machine Learning Systems**: GPUs, TensorFlow, PyTorch, Large language model training and serving systems.
+4. **Machine Learning Systems**: GPUs, TensorFlow, PyTorch, data and model parallelism, LLM training and serving.
 
 
-A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training, and model selection pipelines on large real-world data using popular libraries (Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
+A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
 
 ## Logistics
-
-**Lectures**: Monday, Wednesday, Friday 10:00 AM - 10:50 AM.
-
-**Location**: [PCYNH 122](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
-
-**Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: [HDSI 440](https://maps.app.goo.gl/XeWAcFsFk5bcs2ar5).
+Some key information is below
+- **Lectures**: MWF 10:00 AM - 10:50 AM.
+- **Location**: [PCYNH 122](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
+- **Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: [HDSI 440](https://maps.app.goo.gl/XeWAcFsFk5bcs2ar5).
 
 ## Course Content and Format
-
-- The class meets 3 times a week for 50-minute lectures in person.
+### Lectures
+The class meets 3 times a week for 50-minute lectures in person.
     <!-- - All lectures will be automatically podcast here afterward. -->
-    - Attending the lectures is not mandatory but highly encouraged.
-    - There will be ready summary 
-    - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
+  - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically podcast afterward.
+  - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See details below.
+  - There will be reading summary required per week. Everyone needs to submit their reading summary.
+  - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
 
-- 3 Programming Assignments (PAs).
-    - See the PAs page for the PA schedule and details.
-    - There are no late days for the PAs. Plan your work accordingly.
+### 3 Programming Assignments (PAs)
+  - See the [assignments page](assignments.md) for the PA schedule and details.
+  - There are **no late days** for the PAs. Plan your work accordingly.
 
-- S
-
-- Exams.
-  - **There is NO midterm**. Cheers! 
-  - There will be a final exam,
-  - The final exam will be held as a Canvas Quiz only. The dates and logistics are listed below.
+### Exams
+  - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
+  - There will be a final exam. The date is TBA.
   - The exams will have primarily multiple choice questions (MCQ). Quantitative/longer problems wil exist but only the final answer may need to be selected. Some questions will have partial credits.
   - The guideline for time per question is a max of 1min per point. The points of each question will be calibrated accordingly.
   - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
-  - The midterm exam is closed books/notes/electronics/Web. You are allowed to keep with you two A4-sized sheets (four sides) with any content you want.
   - The final exam is open books/Web/etc. The only requirement is you should neither give nor receive help from anyone by any means.
 
-- There will be 3 extra credit Peer Evaluation activities delivered via Canvas only. I will announce more details on these in due course.
-- I will release ungraded exercises on the exercises page throughout the quarter. These questions will act as practice for the graded exams and surprise quizzes.
-- The discussion slots will be used by the TAs to give talks about the PAs. I might also use them for review discussions before the two exams.
+### Scribe notes
+Each student is required to scribe for a small number of lectures (most likely just 1). Most lectures will have at least 3 students acting as scribes, and they should work as a team. 
+During your assigned lectures, you are to take detailed notes in collaboration with your fellow scribes. 
+After the lecture, the scribe team is to convert their notes into LaTeX format using the provided template. 
+These notes should be 4-8 pages long, and must be submitted electronically. 
+We only require one set of notes from the scribe team. 
+The instructors will then audit your notes, and post them to the [class home page](#) for everyone's benefit. 
+As long as your scribe notes are of sufficient standard, you will be awarded full credit for scribe duties. 
+If your notes have errors or are otherwise not up to standard, we will inform you and give you **one chance** to correct them. 
+ChatGPT is highly recommended to polish the writing of your scribe notes.
+You will receive zero credit if you fail to submit your notes.
+  - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW8n-LadBWtrBHICvIJjZ4c8Xy623lSsTEeW4a0hbZ0/edit#gid=0)
+  - Template: [Overleaf latex template](https://www.overleaf.com/read/tfpkfgxxpgyd#91f059)
+  - Submission: [Gradescope](#)
+  - Due: 11:59 pm PT of the day 10 days from the lecture.
+
+### Reading Summary
+Starting from the second week, the instructor team will provide one required reading and multiple optional readings prior to each lecture. The required readings for this class are compulsory. The optional readings are highly recommended.
+At the end of each week, you are to submit a 2-page summary of the readings you have done for all the required readings of all lectures of the week. 
+These reading summaries are a requirement for this class, and they must be submitted via Gradescope by you in order to receive credit. 
+However, you have 5 grace days on which you can submit the summaries late via email (e.g. if you need to absent from class for whatever reason) with no penalty.
+Your summary should be written at a high level, and should focus on the main point of the readings (i.e. avoid complicated math). As long as your summary is reasonable, you will be given full credit. 
+
+ChatGPT is encouraged to improve the writing of your summary; but you should avoid using software like ChatPDF to generate a summary without actually finishing any readings by yourself. 
+The TA team will perform quick scans on all summaries and contact you if they notice the summary seems to be entirely generated by ChatGPT (the writing style is easily detectable). 
+  - Template: [NeurIPS format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles)
+  - Length: 2 pages
+  - Due: starting from the 2nd week, the summary of this week is due on Wednesday 11:59pm of the next week. 
+
+
+### Participation
+We appreciate everyone being actively involved in the class! There are several ways of earning participation credit, which will be capped at 5%:
+
+- Piazza participation: The top ~20 contributors to Piazza will get 3%; others will get credit in proportion to the participation of the ~20th person. (To prevent abuse of the system, not all contributions are counted and instructors hold the right to determine to count contributions as positive or negative.)
+- Completing course evaluations: Around the middle and end of the semester, we will send out a survey to help us understand how the course is going, and how we can improve. Completing them is worth 1%.
+- Karma point: Any other act that improves the class, which a DSC204A TA or instructor notices and deems worthy: 1%.
 
 ## Pre-requisites
 
-DSC 202 (Data Mgt for Data Science); or substantial practical experience with scalable data systems and ML algorithms, subject to the consent of the instructor.
-
-Proficiency in Python programming.
+- DSC 202 (Data Mgt for Data Science); or substantial practical experience with scalable data systems and ML algorithms, subject to the consent of the instructor.
+- Basic knowledge of deep learning.
+- Proficiency in Python programming.
 
 
 ## Grading
 
-**Components**: 
-- Programming Assignments: 8% + 16% + 16%
-- Final Exam: 40%
-- Reading summary: NeruIPS format, once per week
-- In-class Peer Instruction Activities: 20%
-- 
-- Extra Credit: 4% (likely)
+### Components 
+- Programming Assignments: 12% + 16% + 16%
+- Final Exam: 36%
+- Scribe Duties: 8%
+- Reading summary: 12%
+- Extra Credit: 5%
 
 
-**Cutoffs**: 
+### Cutoffs 
 The grading scheme is a hybrid of absolute and relative grading. The absolute cutoffs are based on your absolute total score. The relative bins are based on your position in the total score distribution of the class. The better grade among the two (absolute-based and relative-based) will be your final grade.
 
 
