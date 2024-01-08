@@ -16,6 +16,7 @@ description: >-
 {:toc}
 
 ---
+We will gradually add more useful resources on this page.
 
 ## Book
 
@@ -35,7 +36,7 @@ description: >-
 ## Materials
 
 ### Student Materials Folder
-We will post relevant materials in [this folder](https://drive.google.com/drive/folders/1h-ludVoe2KlkD-9HfH1go3tVvAxShKdp?usp=sharing) throughout the quarter.
+We will post relevant materials in [this folder](https://drive.google.com/drive/folders/1MpKFgCy9CHFVZEXnizZ8JLM7DTU2sTwd?usp=sharing) throughout the quarter.
 
 ### Related Documentation and Courses
 * [Ray documentation](https://docs.ray.io/en/latest/index.html)

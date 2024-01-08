@@ -29,27 +29,26 @@ The course is organized into four parts, covering the following topics.
 A major component of this course is hands-on Python programming to implement data exploration, data preparation, distributed deep learning training and inference, and model selection pipelines on large real-world data using popular libraries (e.g., Ray, PyTorch) and cloud resources (e.g., AWS/GCP).
 
 ## Logistics
-Some key information is below
 - **Lectures**: MWF 10:00 AM - 10:50 AM.
 - **Location**: [PCYNH 122](https://maps.app.goo.gl/3xRUTjk3cyVA7wAr6).
-- **Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: [HDSI 440](https://maps.app.goo.gl/XeWAcFsFk5bcs2ar5).
+- **Instructor**: [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/); Office: HDSI 440.
 
 ## Course Content and Format
 ### Lectures
 The class meets 3 times a week for 50-minute lectures in person.
-    <!-- - All lectures will be automatically podcast here afterward. -->
   - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically podcast afterward.
-  - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See details below.
-  - There will be reading summary required per week. Everyone needs to submit their reading summary.
+  - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See [details below](#scribe-notes).
+  - There will be reading summary required per week. Everyone needs to submit their reading summary. See [details below](#reading-summary).
   - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
 
 ### 3 Programming Assignments (PAs)
-  - See the [assignments page](assignments.md) for the PA schedule and details.
+  - See the [assignments page](assignments.md) for updates on the PA schedule and details.
   - There are **no late days** for the PAs. Plan your work accordingly.
 
 ### Exams
   - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
-  - There will be a final exam. The date is TBA.
+  - There will be a final exam. The final exam will be held as a Canvas Quiz. 
+  - Tentative date: **Friday, March 22, 8 - 1 am, PT**.
   - The exams will have primarily multiple choice questions (MCQ). Quantitative/longer problems wil exist but only the final answer may need to be selected. Some questions will have partial credits.
   - The guideline for time per question is a max of 1min per point. The points of each question will be calibrated accordingly.
   - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
@@ -66,23 +65,24 @@ As long as your scribe notes are of sufficient standard, you will be awarded ful
 If your notes have errors or are otherwise not up to standard, we will inform you and give you **one chance** to correct them. 
 ChatGPT is highly recommended to polish the writing of your scribe notes.
 You will receive zero credit if you fail to submit your notes.
-  - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW8n-LadBWtrBHICvIJjZ4c8Xy623lSsTEeW4a0hbZ0/edit#gid=0)
+  - Sign-up: [Spreadsheet](https://docs.google.com/spreadsheets/d/1aW8n-LadBWtrBHICvIJjZ4c8Xy623lSsTEeW4a0hbZ0/edit?usp=drive_link)
   - Template: [Overleaf latex template](https://www.overleaf.com/read/tfpkfgxxpgyd#91f059)
-  - Submission: [Gradescope](#)
-  - Due: 11:59 pm PT of the day 10 days from the lecture.
+  - Submission: Sent to instructor and all TA via a group email (check [staff page](staff.md) for contacts)
+  - Due: 11:59 pm PT of the day 10 days from the lecture
 
 ### Reading Summary
-Starting from the second week, the instructor team will provide one required reading and multiple optional readings prior to each lecture. The required readings for this class are compulsory. The optional readings are highly recommended.
+Starting from the second week, the instructor/TA team will provide one required reading and multiple optional readings prior to each lecture. The required readings for this class are compulsory. The optional readings are highly recommended.
 At the end of each week, you are to submit a 2-page summary of the readings you have done for all the required readings of all lectures of the week. 
 These reading summaries are a requirement for this class, and they must be submitted via Gradescope by you in order to receive credit. 
 However, you have 5 grace days on which you can submit the summaries late via email (e.g. if you need to absent from class for whatever reason) with no penalty.
 Your summary should be written at a high level, and should focus on the main point of the readings (i.e. avoid complicated math). As long as your summary is reasonable, you will be given full credit. 
 
-ChatGPT is encouraged to improve the writing of your summary; but you should avoid using software like ChatPDF to generate a summary without actually finishing any readings by yourself. 
+You are encouraged to use ChatGPT to improve the writing of your summary; but you should avoid using software like ChatPDF to generate a summary without actually finishing any readings by yourself. 
 The TA team will perform quick scans on all summaries and contact you if they notice the summary seems to be entirely generated by ChatGPT (the writing style is easily detectable). 
   - Template: [NeurIPS format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles)
   - Length: 2 pages
-  - Due: starting from the 2nd week, the summary of this week is due on Wednesday 11:59pm of the next week. 
+  - Submission: [Gradescope](https://www.gradescope.com/courses/697914)
+  - Due: starting from the 2nd week, the summary of the week is due on Wednesday 11:59pm of the next week
 
 
 ### Participation
@@ -95,8 +95,8 @@ We appreciate everyone being actively involved in the class! There are several w
 ## Pre-requisites
 
 - DSC 202 (Data Mgt for Data Science); or substantial practical experience with scalable data systems and ML algorithms, subject to the consent of the instructor.
-- Basic knowledge of deep learning.
 - Proficiency in Python programming.
+- Knowledge of deep learning and deep learning frameworks such as PyTorch.
 
 
 ## Grading
@@ -181,10 +181,6 @@ The grading scheme is a hybrid of absolute and relative grading. The absolute cu
 
 **Non-Letter Grade Options**: You have the option of taking this course for a non-letter grade. The policy for P in a P/F option is a letter grade of C- or better; for S in an S/U option is a letter grade of B- or better.
 
-
-## Exam Dates
-
-- Final Exam: TBD (in the week of March 16 - 23); time window: 3:00-7:00pm PT; time limit: 4 hours
 
 ## Classroom Rules
 - <code>No late days</code> for submitting the PAs. No extensions on the final exam time window. Plan all your work well up front accordingly.

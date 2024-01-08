@@ -19,7 +19,7 @@ author: Hao Zhang
 email: dsc204a-w24@gmail.com
 baseurl: '/dsc204a-w24' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
 #logo: "/data8logo.png"
 
 # Theme settings
@@ -31,10 +31,12 @@ permalink: pretty
 aux_links:
   Office Hours:
     - '/dsc204a-w24/officehours'
+  Canvas:
+    - 'https://canvas.ucsd.edu/courses/53288'
   Piazza:
     - 'https://piazza.com/ucsd/winter2024/dsc204a'
   GradeScope:
-    - '#'
+    - 'https://www.gradescope.com/courses/697914'
   # Feedback Form:
   #   - 'https://forms.gle/gHhrqEGCGE1S4N1r5'
 
