@@ -6,7 +6,7 @@ status: Active
 
 Jan 8
 : **1**{: .label} Introduction
-  : [Slides](#) &#8226; [Recording](#)
+  : [Slides](#) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00)
 : *Reading:* N/A
 : **Survey**{: .label .label-lab} [Beginning of Quarter Survey](#)
 
