@@ -26,12 +26,15 @@ We will gradually add more useful resources on this page.
 
 * **If you are not familiar with Python programming, use any online tutorial to get a handle of it.** Here is a [Python mini-course](http://ai.berkeley.edu/tutorial.html#PythonBasics).
 * Computer Organization and Design (5th edition), by David Patterson and John Hennessy (aka the "CompOrg Book").
-* Operating Systems: Three Easy Pieces, by Remzi and Andrea Arpaci-Dusseau (aka the "Comet Book").
+* Operating Systems: Three Easy Pieces, by Remzi and Andrea Arpaci-Dusseau (aka the "Comet Book"). Here's the [free e-book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * Database Management Systems (3rd edition), by Raghu Ramakrishnan and Johannes Gehrke (aka the "Cow Book").
 * Spark: The Definitive Guide (1st edition), by Bill Chambers and Matei Zaharia (aka the "Spark Book").
 * Data Management in Machine Learning Systems, by Matthias Boehm, Arun Kumar, and Jun Yang.
 * [Deep Learning Book](https://www.deeplearningbook.org/), by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 * [Designing Machine Learning Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969), by Chip Huyen.
+
+## Past Offerings
+* [DSC 204a, Spring 2023](https://haojian.github.io/DSC204A23WI/)
 
 ## Materials
 
@@ -43,6 +46,8 @@ We will post relevant materials in [this folder](https://drive.google.com/drive/
 * [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 * [Dive into Deep Learning](https://d2l.ai/)
 * [Machine Learning Compilation](https://mlc.ai/)
+* [CSE 224: Graduate Networked Systems](https://canvas.ucsd.edu/courses/43955)
+
 
 ## Exam Resources
 Coming soon...
