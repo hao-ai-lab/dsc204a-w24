@@ -36,7 +36,7 @@ A major component of this course is hands-on Python programming to implement dat
 ## Course Content and Format
 ### Lectures
 The class meets 3 times a week for 50-minute lectures in person.
-  - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically podcast afterward.
+  - Attending the lectures is not mandatory but highly encouraged. All lectures will be automatically [podcast here](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00) afterward.
   - There will be scribe notes required for each lecture. Students should form groups of 2 - 4 people and sign up one slot. See [details below](#scribe-notes).
   - There will be reading summary required per week. Everyone needs to submit their reading summary. See [details below](#reading-summary).
   - We will use [Piazza](https://piazza.com/ucsd/winter2024/dsc204a) for asynchronous discussions and questions.
