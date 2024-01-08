@@ -62,6 +62,7 @@ Exams and practice exams from previous semesters can be found below. These exams
 
 **Finals:**
 * [Summer 2023 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-su23-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-su23-final-sols.pdf)
+-->
 ## Wellness Resources
 
 Your wellbeing matters, and we hope that DSC 204A is _never_ a barrier for your wellbeing. Below are some campus resources that may be helpful. Remember that you are not alone: please reach out to the instructor and TAs whenever needed!

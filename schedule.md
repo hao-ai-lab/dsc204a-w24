@@ -20,14 +20,14 @@ description: >-
 | 3  | Basics of Cloud Computing                                               ||
 | 4  | Cloud Storage                                                           ||
 | 5  | Parallel and Scalable Data Processing: Parallelism Basics               ||
-| 6  | Big Data: Scalable Data Access                                          ||
-| 7  | Big Data: Spark, batch processing, streaming processing                 ||
+| 6  | Big Data: Data encoding, query languages, etc.                          ||
+| 7  | Big Data: MapReduce, Spark, batch and streaming processing              ||
 | 7-8 | Guest Talk: TBD                                                         ||
 | 8  | MLSYS: machine learning, Autodiff, Dataflow graphs, GPUs, ML frameworks ||
 | 8  | Guest Talk: TBD                                                         ||
-| 9  | MLSYS: ML compilation, graph optimizaiton, ML parallelisms            ||
+| 9  | MLSYS: ML compilation, graph optimizaiton, ML parallelisms              ||
 | 9  | Guest Talk: TBD                                                         ||
-| 10 | MLSYS: ML parallelisms, LLMs, scaling law, training, serving          ||
+| 10 | MLSYS: ML parallelisms, LLMs, scaling law, training, serving            ||
 | 10 | Final exam reviews                                                      ||
 | 11 | Final exam on March 22, 8 - 11am.                                       ||
 
