@@ -19,7 +19,7 @@ author: Hao Zhang
 email: dsc204a-w24@gmail.com
 baseurl: '/dsc204a-w24' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "bundle"]
 #logo: "/data8logo.png"
 
 # Theme settings
