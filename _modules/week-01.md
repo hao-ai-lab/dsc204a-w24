@@ -6,7 +6,7 @@ status: Active
 
 Jan 8
 : **1**{: .label} Introduction
-  : [Slides](assets/slides/1_Logistics.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00)
+  : [Slides-1](assets/slides/1_Logistics.pdf) &#8226; [Slides-2](assets/slides/2_Data_representation.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00)
 : *Reading:* N/A
 : **Survey**{: .label .label-lab} [Beginning of Quarter Survey](https://forms.gle/5KSrMYuhWL8xaV478)
 
