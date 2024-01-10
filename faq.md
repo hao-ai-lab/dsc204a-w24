@@ -7,7 +7,16 @@ description: >-
 ---
 
 # Frequently Asked Questions
-## Coming soon!
+
+**Q: What is the required knowledge for this course?**
+
+**A:** This course assumes prerequisite knowledge as in the DSC 202 (Data Management for Data Science)
+
+**Q: I don't know much about computer systems. Is that okay?**
+
+**A:** The intended audience for the course are data scientists, and not systems engineers! It is completely fine to not have a background in computer systems. The course material will quickly brush up on computer systems fundamentals and then dive into different aspects of data systems and scalable data processing. The assignments will test your ability to _apply_ scalable data programming principles as a _data scientist_, and not on the internals of, say, MapReduce or task scheduling. 
+
+## More to Come!
 <!-- 
 <br>
 
