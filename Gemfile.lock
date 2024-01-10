@@ -262,7 +262,6 @@ PLATFORMS
   arm64-darwin-22
   arm64-darwin-23
   universal-darwin-20
-  universal-darwin-23
   x86_64-linux
 
 DEPENDENCIES
