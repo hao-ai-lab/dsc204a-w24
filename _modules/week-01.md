@@ -16,6 +16,12 @@ Jan 10
 : *Reading:* N/A
 <!-- : **Homework**{: .label .label-homework} Homework 01 (Due 1/24) -->
 
+Jan 12
+: **2**{: .label} Basics: Computer Organization, Operating systems, Storage
+  : [Slides](assets/slides/3_storage.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/3) &#8226; [Scribe Notes](#)
+: *Reading:* N/A
+
+
 <!--
 Jan 12
 : **2**{: .label} Basics: 
