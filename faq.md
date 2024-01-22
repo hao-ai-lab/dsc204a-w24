@@ -16,6 +16,12 @@ description: >-
 
 **A:** The intended audience for the course are data scientists, and not systems engineers! It is completely fine to not have a background in computer systems. The course material will quickly brush up on computer systems fundamentals and then dive into different aspects of data systems and scalable data processing. The assignments will test your ability to _apply_ scalable data programming principles as a _data scientist_, and not on the internals of, say, MapReduce or task scheduling. 
 
+**Q: This is my first time being a scribe. I'm not too sure what my role is.**
+
+**A:**  First off, we're glad that you're taking some time to understand our expectations! The expectations from a scribe are simple: the scribe should faithfully capture the professor's explanations in the lecture. We expect the notes to have the same structure/main sections as the slides, and many similar wordings as well. Additionally, the notes should also have helpful examples given by the professor in the class, additional context for different topics when needed, etc. The TAs will assess your notes based on the contents in the slides.  
+
+You should not, however, try to rearrange the content as you see fit, or add in material from the additional readings provided. The scribe notes do not have to be a self-contained document on the topic - we're only looking for you to capture what was taught in class.
+
 ## More to Come!
 <!-- 
 <br>
