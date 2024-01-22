@@ -18,7 +18,7 @@ Jan 10
 
 Jan 12
 : **2**{: .label} Basics: Computer Organization, Operating systems, Storage
-  : [Slides](assets/slides/3_storage.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/3) &#8226; [Scribe Notes](/assets/scribe_notes/Lecture_3.pdf)
+  : [Slides](assets/slides/3_storage.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/3) &#8226; [Scribe Notes](assets/scribe_notes/Lecture_3.pdf)
 : *Reading:* N/A
 
 
