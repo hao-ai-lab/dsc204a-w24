@@ -12,12 +12,12 @@ Jan 8
 
 Jan 10
 : **2**{: .label} Basics: Computer Organization, Operating systems, Storage
-  : [Slides](assets/slides/2_Data_representation.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/2) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/2_Data_representation.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/2) &#8226; [Scribe Notes](assets/scribe_notes/Lecture_2.pdf)
 : *Reading:* N/A
 <!-- : **Homework**{: .label .label-homework} Homework 01 (Due 1/24) -->
 
 Jan 12
-: **2**{: .label} Basics: Computer Organization, Operating systems, Storage
+: **3**{: .label} Basics: Computer Organization, Operating systems, Storage
   : [Slides](assets/slides/3_storage.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/3) &#8226; [Scribe Notes](assets/scribe_notes/Lecture_3.pdf)
 : *Reading:* N/A
 

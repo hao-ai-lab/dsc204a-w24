@@ -20,7 +20,7 @@ Jan 24
 
 
 Jan 26
-: **2**{: .label} Bascis: Cloud Computing
+: **3**{: .label} Bascis: Cloud Computing
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* N/A
 * [Above the Clouds: A Berkeley View of Cloud Computing (required)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
