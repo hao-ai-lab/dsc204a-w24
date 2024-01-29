@@ -6,7 +6,12 @@ nav_order: 980
 ---
 
 # Programming Assignments (PA) 
-Coming soon!
+- PA1: Getting Started with Modin and Ray
+    - Release Date: Monday, 04/18/2024
+    - [Problem Statement and Rubric](assets/assignments/Assignment_1.pdf)
+    - For starter code, please check Canvas.
+    - Discussion by TA: 01/30/2024 (tentative)
+    - Due Date: 02/10/2024
 
 <!--
 {:.no_toc}
