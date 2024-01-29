@@ -21,7 +21,7 @@ Jan 24
 
 Jan 26
 : **3**{: .label} Bascis: Cloud Computing - 1
-  : [Slides](#) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/8) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/7_cloud_computing.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/8) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [Above the Clouds: A Berkeley View of Cloud Computing (required)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
 * [The Datacenter as a Computer Designing Warehouse-Scale Machines Chapter 2 (optional)](https://link.springer.com/chapter/10.1007/978-3-031-01761-2_2)
