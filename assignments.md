@@ -13,6 +13,10 @@ nav_order: 980
     - Discussion by TA: 01/30/2024 (tentative)
     - Due Date: 02/10/2024
 
+    - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
+    - [Discussion Session Notebook](https://colab.research.google.com/drive/1O82mt7sjXoGD8z1U5zj22liU8evb6qtt?usp=sharing)
+
+
 <!--
 {:.no_toc}
 ### Documents and Dates
