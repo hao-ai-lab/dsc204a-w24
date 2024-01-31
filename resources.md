@@ -41,7 +41,7 @@ We will gradually add more useful resources on this page.
 ### Student Materials Folder
 We will post relevant materials in [this folder](https://drive.google.com/drive/folders/1MpKFgCy9CHFVZEXnizZ8JLM7DTU2sTwd?usp=sharing) throughout the quarter.
 
-## Resources on Ray
+### Resources on Ray
 * [Ray documentation](https://docs.ray.io/en/latest/index.html)
 * [Ray Educational Materials](https://github.com/ray-project/ray-educational-materials)
 * [Modin - Pandas on Ray](https://docs.ray.io/en/latest/ray-more-libs/modin/index.html)
