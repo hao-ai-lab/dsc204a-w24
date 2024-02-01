@@ -6,7 +6,7 @@ status: Active
 
 Jan 29
 : **1**{: .label} Bascis: Cloud Computing - 2
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/8_networking-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/9) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [ Computer Networks: A Systems Approach Chapter 1.3 (required)](https://book.systemsapproach.org/foundation/architecture.html#architecture)
 * [ Computer Networks: A Systems Approach Chapter 1.5 (required)](https://book.systemsapproach.org/foundation/performance.html#performance)
@@ -16,7 +16,7 @@ Jan 29
 
 Jan 31
 : **2**{: .label} Bascis: Cloud Computing - 3
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/9_networking-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/10) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Collective communication: theory, practice, and experience Section 1-6 (required)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
 * [Collective communication: theory, practice, and experience Section 7-10 (optional)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
