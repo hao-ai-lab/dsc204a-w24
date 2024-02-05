@@ -12,7 +12,7 @@ Jan 22
 
 
 Jan 24
-: **2**{: .label} Basics: OS-3
+: **2**{: .label} Basics: OS - 3
   : [Slides](assets/slides/6_os-3.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/7) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [Above the Clouds: A Berkeley View of Cloud Computing (required)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
