@@ -15,7 +15,7 @@ Jan 29
 
 
 Jan 31
-: **2**{: .label} Network -2
+: **2**{: .label} Network - 2
   : [Slides](assets/slides/9_networking-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/10) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Collective communication: theory, practice, and experience Section 1-6 (required)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
@@ -24,7 +24,7 @@ Jan 31
 
 
 Feb 2
-: **3**{: .label} Collective Communication
+: **3**{: .label} Collective Communication - 1
   : [Slides](assets/slides/10_collectives.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/11) &#8226; [Scribe Notes](#)
 : *Reading:* N/A
 * [Collective communication: theory, practice, and experience Section 1-6 (required)](https://www.cs.utexas.edu/~pingali/CSE392/2011sp/lectures/Conc_Comp.pdf)
