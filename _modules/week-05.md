@@ -24,7 +24,7 @@ Feb 7
 
 Feb 9
 : **3**{: .label} Cloud Storage - 2
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/13_cloud-storage-2.pdf) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [The Google File System (required)](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf)
 * [Finding a needle in Haystack: Facebook’s photo storage (required)](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
