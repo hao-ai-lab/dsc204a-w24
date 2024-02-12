@@ -1,5 +1,5 @@
 ---
-title: Week 5
+title: Week 6
 class: DSC204A
 status: Active
 ---
