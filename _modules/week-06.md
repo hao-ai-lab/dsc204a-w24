@@ -22,7 +22,7 @@ Feb 14
 
 
 Feb 16
-: **2**{: .label} Guest Lecture
+: **3**{: .label} 
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Designing Data-Intensive Applications Chapter 9 Consistency and Consensus Page 324-332, 352-359](https://drive.google.com/drive/folders/1MpKFgCy9CHFVZEXnizZ8JLM7DTU2sTwd?usp=sharing)
