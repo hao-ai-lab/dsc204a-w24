@@ -10,7 +10,7 @@ Feb 19
 : *Reading:*
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications (required)](assets/readings/chord_sigcomm.pdf)
 * [In Search of an Understandable Consensus Algorithm (optional)](https://raft.github.io/raft.pdf)
-
+* [The Raft Consensus Algorithm (optional)](https://raft.github.io/)
 
 
 
@@ -28,4 +28,4 @@ Feb 23
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (required)](assets/readings/spark.pdf)
-* [The Raft Consensus Algorithm (optional)](https://raft.github.io/)
+* [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
