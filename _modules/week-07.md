@@ -28,4 +28,4 @@ Feb 23
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (required)](assets/readings/spark.pdf)
-* [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
+* [ZooKeeper: Wait-free coordination for Internet-scale systems (optional)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
