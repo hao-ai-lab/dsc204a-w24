@@ -12,10 +12,8 @@ nav_order: 980
     - For starter code, please check Canvas.
     - Discussion by TA: 01/30/2024 (tentative)
     - Due Date: 02/10/2024
-
     - [Discussion Session Slides](https://docs.google.com/presentation/d/1CdgJRWoqFlXc-nqZXx7dLSXOn4jO1WDxhSASRS7auRQ/edit?usp=sharing)
     - [Discussion Session Notebook](https://colab.research.google.com/drive/1O82mt7sjXoGD8z1U5zj22liU8evb6qtt?usp=sharing)
-
 
 - PA2: Multi-node data processing and collective communication with Ray
     - Release Date: Monday, 02/19/2024
