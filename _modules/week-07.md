@@ -9,8 +9,7 @@ Feb 19
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications (required)](assets/readings/chord_sigcomm.pdf)
-
-
+* [In Search of an Understandable Consensus Algorithm (optional)](https://raft.github.io/raft.pdf)
 
 
 
@@ -20,7 +19,7 @@ Feb 21
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [MapReduce: Simplified Data Processing on Large Clusters (required)](assets/readings/mapreduce.pdf)
-
+* [Paxos Made Simple (optional)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
 
 
 
@@ -29,3 +28,4 @@ Feb 23
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (required)](assets/readings/spark.pdf)
+* [The Raft Consensus Algorithm (optional)](https://raft.github.io/)
