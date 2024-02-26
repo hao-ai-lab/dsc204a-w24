@@ -23,6 +23,6 @@ Feb 14
 
 Feb 16
 : **3**{: .label} Parallelism Data
-  : [Slides](assets/slides/16_parallelism-data.pdf) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/16_parallelism-data.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/17) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Designing Data-Intensive Applications Chapter 9 Consistency and Consensus Page 324-332, 352-359](https://drive.google.com/drive/folders/1MpKFgCy9CHFVZEXnizZ8JLM7DTU2sTwd?usp=sharing)

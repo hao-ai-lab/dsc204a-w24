@@ -24,8 +24,8 @@ Feb 21
 
 
 Feb 23
-: **3**{: .label} 
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+: **3**{: .label} Batch Processing - 1
+  : [Slides](assets/slides/17_batch-processing-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/19) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (required)](assets/readings/spark.pdf)
 * [ZooKeeper: Wait-free coordination for Internet-scale systems (optional)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
