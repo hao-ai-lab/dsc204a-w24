@@ -21,6 +21,8 @@ nav_order: 980
     - For code and data, please check [Datahub](https://datahub.ucsd.edu)
     - Discussion by TA: 02/20/2024 (tentative)
     - Due Date: 03/04/2024 11:59 PM
+    - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
+    - [Discussion Session Notebook](assets/discussions/pa2_discussion.ipynb)
 
 
 <!--
