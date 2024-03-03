@@ -29,7 +29,7 @@ Feb 28
 
 Mar 1
 : **3**{: .label} Streaming processing - 2
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/20_stream-processing-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/22) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters (Required)](https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final28.pdf)
 * [Ray: A Distributed Framework for Emerging AI Applications (Required)](https://arxiv.org/pdf/1712.05889.pdf)
