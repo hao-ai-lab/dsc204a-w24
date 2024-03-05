@@ -24,6 +24,12 @@ nav_order: 980
     - [Discussion Session Slides](assets/discussions/pa2_discussion.pdf)
     - [Discussion Session Notebook](assets/discussions/pa2_discussion.ipynb)
 
+- PA2: Multi-node data processing and collective communication with Ray
+    - Release Date: Monday, 03/05/2024
+    - [Problem Statement and Rubric](assets/assignments/Assignment_3.pdf)
+    - For code and data, please check [Datahub](https://datahub.ucsd.edu)
+    - Due Date: 03/13/2024 01:00 PM
+    - **Note**: The assignment is due in the middle of the day to avoid peak traffic on DataHub. It's 1 PM, not 1 AM!
 
 <!--
 {:.no_toc}
