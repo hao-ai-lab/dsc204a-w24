@@ -1,11 +1,11 @@
 ---
-title: Week 7
+title: Week 9
 class: DSC204A
 status: Active
 ---
 
-Feb 19
-: **1**{: .label} 
+Mar 4 
+: **1**{: .label} Guest Lecture
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
@@ -16,7 +16,7 @@ Feb 19
 
 
 
-Feb 21
+Mar 6
 : **2**{: .label} 
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
@@ -28,7 +28,7 @@ Feb 21
 
 
 
-Feb 23
+Mar 8
 : **3**{: .label} 
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
