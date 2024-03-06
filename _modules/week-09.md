@@ -5,8 +5,8 @@ status: Active
 ---
 
 Mar 4 
-: **1**{: .label} Guest Lecture
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+: **1**{: .label} Guest Lecture - [Stephanie Wang](https://stephanie-wang.github.io/)
+  : [Slides](#) &#8226; [Recording](https://drive.google.com/file/d/1KB5LWGNNkgOTWk_shgM4brYGGm7TsS0w/view?usp=sharing) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
 * [Petuum: A New Platform for Distributed Machine Learning on Big Data (required)](https://arxiv.org/pdf/1312.7651.pdf)
@@ -17,8 +17,8 @@ Mar 4
 
 
 Mar 6
-: **2**{: .label} 
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+: **2**{: .label} ML System - 1
+  : [Slides](assets/slides/21_ml-system-1.pdf) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
 * [Petuum: A New Platform for Distributed Machine Learning on Big Data (required)](https://arxiv.org/pdf/1312.7651.pdf)
@@ -29,7 +29,7 @@ Mar 6
 
 
 Mar 8
-: **3**{: .label} 
+: **3**{: .label} Guest Lecture - [Prof. Ion Stoica](https://people.eecs.berkeley.edu/~istoica/)
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
