@@ -15,7 +15,7 @@ Feb 19
 
 
 Feb 21
-: **2**{: .label} Guest Lecture
+: **2**{: .label} Guest Lecture - [Prof. Yiying Zhang](https://cseweb.ucsd.edu/~yiying/)
   : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [MapReduce: Simplified Data Processing on Large Clusters (required)](assets/readings/mapreduce.pdf)
