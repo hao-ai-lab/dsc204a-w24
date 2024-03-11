@@ -16,7 +16,7 @@ Feb 19
 
 Feb 21
 : **2**{: .label} Guest Lecture - [Prof. Yiying Zhang](https://cseweb.ucsd.edu/~yiying/)
-  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+  : [Slides](#) &#8226; [Recording](#) &#8226; [Scribe Notes](assets/scribe_notes/Feb_21_scribe_note.pdf)
 : *Reading:* 
 * [MapReduce: Simplified Data Processing on Large Clusters (required)](assets/readings/mapreduce.pdf)
 * [Paxos Made Simple (optional)](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
@@ -25,7 +25,7 @@ Feb 21
 
 Feb 23
 : **3**{: .label} Batch Processing - 1
-  : [Slides](assets/slides/17_batch-processing-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/19) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/17_batch-processing-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/19) &#8226; [Scribe Notes](assets/scribe_notes/Feb_23_scribe_note.pdf)
 : *Reading:* 
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing (required)](assets/readings/spark.pdf)
 * [ZooKeeper: Wait-free coordination for Internet-scale systems (optional)](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf)
