@@ -1,0 +1,39 @@
+---
+title: Week 10
+class: DSC204A
+status: Active
+---
+
+Mar 11
+: **1**{: .label} 
+  : [Slides]() &#8226; [Recording]() &#8226; [Scribe Notes](#)
+: *Reading:*
+* [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://arxiv.org/pdf/2201.12023.pdf)
+* [PGPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (required)](https://arxiv.org/pdf/1811.06965.pdf)
+* [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (required)](https://arxiv.org/pdf/1909.08053.pdf)
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (optional)](https://arxiv.org/pdf/2205.14135.pdf)
+
+
+
+
+Mar 13
+: **2**{: .label} 
+  : [Slides]() &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+: *Reading:* 
+* [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://arxiv.org/pdf/2201.12023.pdf)
+* [PGPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (required)](https://arxiv.org/pdf/1811.06965.pdf)
+* [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (required)](https://arxiv.org/pdf/1909.08053.pdf)
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (optional)](https://arxiv.org/pdf/2205.14135.pdf)
+
+
+
+
+Mar 15
+: **3**{: .label} 
+  : [Slides](#) &#8226; [Recording]() &#8226; [Scribe Notes](#)
+: *Reading:* 
+* [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://arxiv.org/pdf/2201.12023.pdf)
+* [PGPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (required)](https://arxiv.org/pdf/1811.06965.pdf)
+* [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (required)](https://arxiv.org/pdf/1909.08053.pdf)
+* [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (optional)](https://arxiv.org/pdf/2205.14135.pdf)
+
