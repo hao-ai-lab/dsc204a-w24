@@ -5,7 +5,7 @@ status: Active
 ---
 
 Mar 11
-: **1**{: .label} 
+: **1**{: .label} ML System - 2
   : [Slides](assets/slides/22_ml-system-2.pdf) &#8226; [Recording]() &#8226; [Scribe Notes](#)
 : *Reading:*
 * [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (optional)](https://arxiv.org/pdf/2201.12023.pdf)
@@ -18,8 +18,8 @@ Mar 11
 
 
 Mar 13
-: **2**{: .label} 
-  : [Slides]() &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+: **2**{: .label} ML System - 3
+  : [Slides](assets/slides/23_ml-system-3.pdf) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (optional)](https://arxiv.org/pdf/2201.12023.pdf)
 * [PGPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (optional)](https://arxiv.org/pdf/1811.06965.pdf)
@@ -31,7 +31,7 @@ Mar 13
 
 
 Mar 15
-: **3**{: .label} 
+: **3**{: .label} ML System - 4
   : [Slides](#) &#8226; [Recording]() &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (optional)](https://arxiv.org/pdf/2201.12023.pdf)
