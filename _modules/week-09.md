@@ -18,7 +18,7 @@ Mar 4
 
 Mar 6
 : **2**{: .label} ML System - 1
-  : [Slides](assets/slides/21_ml-system-1.pdf) &#8226; [Recording](#) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/21_ml-system-1.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/24) &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
 * [Petuum: A New Platform for Distributed Machine Learning on Big Data (required)](https://arxiv.org/pdf/1312.7651.pdf)
