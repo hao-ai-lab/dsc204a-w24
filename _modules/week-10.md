@@ -32,7 +32,7 @@ Mar 13
 
 Mar 15
 : **3**{: .label} ML System - 4
-  : [Slides](#) &#8226; [Recording]() &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/24_ml-system-4.pdf) &#8226; [Recording]() &#8226; [Scribe Notes](#)
 : *Reading:* 
 * [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (optional)](https://arxiv.org/pdf/2201.12023.pdf)
 * [PGPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (optional)](https://arxiv.org/pdf/1811.06965.pdf)
