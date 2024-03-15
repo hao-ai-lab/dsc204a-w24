@@ -6,7 +6,7 @@ status: Active
 
 Mar 4 
 : **1**{: .label} Guest Lecture - [Stephanie Wang](https://stephanie-wang.github.io/)
-  : [Slides](/assets/slides/UCSD_3_3_24_A_brief_history_of_the_Ray_ecosystem.pdf) &#8226; [Recording](https://drive.google.com/file/d/1KB5LWGNNkgOTWk_shgM4brYGGm7TsS0w/view?usp=sharing) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/UCSD_3_3_24_A_brief_history_of_the_Ray_ecosystem.pdf) &#8226; [Recording](https://drive.google.com/file/d/1KB5LWGNNkgOTWk_shgM4brYGGm7TsS0w/view?usp=sharing) &#8226; [Scribe Notes](#)
 : *Reading:*
 * [TensorFlow: A system for large-scale machine learning (required)](https://arxiv.org/pdf/1605.08695.pdf)
 * [Petuum: A New Platform for Distributed Machine Learning on Big Data (required)](https://arxiv.org/pdf/1312.7651.pdf)
