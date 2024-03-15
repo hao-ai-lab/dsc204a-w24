@@ -10,7 +10,7 @@ Feb 5
 : *Reading:*
 * [The Google File System (required)](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf)
 * [Finding a needle in Haystack: Facebook’s photo storage (required)](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
-* [The Snowflake Elastic Data Warehouse (optinal)](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) 
+* [The Snowflake Elastic Data Warehouse (optional)](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) 
 
 
 Feb 7
@@ -19,7 +19,7 @@ Feb 7
 : *Reading:*
 * [The Google File System (required)](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf)
 * [Finding a needle in Haystack: Facebook’s photo storage (required)](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
-* [The Snowflake Elastic Data Warehouse (optinal)](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) 
+* [The Snowflake Elastic Data Warehouse (optional)](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) 
 
 
 Feb 9
@@ -28,4 +28,4 @@ Feb 9
 : *Reading:*
 * [The Google File System (required)](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/gfs-sosp2003.pdf)
 * [Finding a needle in Haystack: Facebook’s photo storage (required)](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
-* [The Snowflake Elastic Data Warehouse (optinal)](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) 
+* [The Snowflake Elastic Data Warehouse (optional)](https://info.snowflake.net/rs/252-RFO-227/images/Snowflake_SIGMOD.pdf) 
