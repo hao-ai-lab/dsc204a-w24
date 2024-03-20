@@ -6,7 +6,7 @@ status: Active
 
 Mar 11
 : **1**{: .label} ML System - 2
-  : [Slides](assets/slides/22_ml-system-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/26) &#8226; [Scribe Notes](#)
+  : [Slides](assets/slides/22_ml-system-2.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi24/dsc204a_a00/26) &#8226; [Scribe Notes](assets/scribe_notes/Mar_11_scribe_note.pdf)
 : *Reading:*
 * [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (optional)](https://arxiv.org/pdf/2201.12023.pdf)
 * [GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (optional)](https://arxiv.org/pdf/1811.06965.pdf)
